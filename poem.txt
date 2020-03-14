@@ -6,4 +6,6 @@ white
 blue 
 red
 yellow
+pink
 these are the colours of the rainbow
+and the colours of unicorn
