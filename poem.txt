@@ -8,6 +8,8 @@ red
 yellow
 pink
 indigo
+earth
+recycle
 these are the colours of the rainbow
 and the colours of unicorn
 and the ponies.
